@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a junior developer with a strong Linux and DevOps background, currently focusing on full-stack development and cybersecurity. I build and deploy web applications using JavaScript (React), Python, and modern tooling like Docker and Git.<br><br>I am passionate about writing clean, efficient, and secure code, with a growing interest in system security, automation, and infrastructure. Always learning, always building.
+I am a junior developer with a strong Linux and DevOps background, currently focusing on full-stack development and cybersecurity. I build and deploy web applications using JavaScript (React), Python, Java, and modern tooling like Docker and Git.<br><br>I am passionate about writing clean, efficient, and secure code, with a growing interest in system security, automation, and infrastructure. Always learning, always building.
 
 
 ## 🌐 Socials:
