@@ -22,10 +22,16 @@ I am a junior developer with a strong Linux and DevOps background, currently foc
 ---
 
 # 📊 GitHub Stats:
-![](https://github-readme-activity-graph.vercel.app/graph?username=monometra&theme=gruvbox&hide_border=true)
-![](https://github-readme-stats.shion.dev/api?username=monometra&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=monometra&theme=gruvbox&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=monometra&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=monometra&theme=gruvbox&hide_border=true" />
+  <br/>
+  <img src="https://github-readme-stats.shion.dev/api?username=monometra&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false" />
+  <br/>
+  <img src="https://streak-stats.demolab.com/?user=monometra&theme=gruvbox&hide_border=false" />
+  <br/>
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=monometra&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+</p>
 
 ---
 
